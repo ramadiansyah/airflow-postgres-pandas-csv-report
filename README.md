@@ -36,7 +36,7 @@ This repository contains a robust, **Dockerized Extract, Transform, Load (ETL) p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/ramadiansyah/airflow-postgres-pandas-csv-report
     cd airflow-postgres-pandas-csv-report
     ```
 2.  **Set Environment Variables:**
